@@ -25,3 +25,5 @@ Ubuntu : https://www.microsoft.com/store/productId/9PDXGNCFSCZV
 https://GitHub.com/abbodi1406/KMS_VL_ALL_AIO/releases/
 
 0912 197 7150
+ #701c1c
+#BB2649
