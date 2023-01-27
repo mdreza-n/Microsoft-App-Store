@@ -31,5 +31,4 @@ http://trainbit.com/folders/0572282484/بانک_آموزشی_خرپک
 
 https://github.com/reeceyng?tab=repositories
 
-vmess://eyJhZGQiOiJpcnRvcC50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImlydG9wLnRrIiwiaWQiOiIwNzA1MzA5Ny0wMDQ3LTQ0MTMtYWJhNS1jNDQ2ZTI3ZGM5NTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMDcwNTMwOTctMDA0Ny00NDEzLWFiYTUtYzQ0NmUyN2RjOTU0LXZtIiwicG9ydCI6IjQ0MyIsInBzIjoidm0iLCJzY3kiOiJub25lIiwic25pIjoiaXJ0b3AudGsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://9dd78e03-97b1-4366-90f0-1640e55d3690@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=VALdGZ9k&sni=aff5cf9a.gheychi.games#vless+gtls+18
+https://github.com/Misaka-blog/xray-for-paas
